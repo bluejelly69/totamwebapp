@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Nut from '../src/assets/R.jpg';
 
